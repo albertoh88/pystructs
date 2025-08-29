@@ -1,31 +1,31 @@
-# 📜 Código de Conduta
+# 📜 Code of Conduct
 
-## Nosso compromisso
-Comprometemo-nos a manter um ambiente aberto, acolhedor e livre de assédio para todas as pessoas, independentemente de sua idade, gênero, identidade, orientação sexual, deficiência, etnia, religião ou nível de experiência.  
+## Our Commitment
+We are committed to maintaining an open, welcoming, and harassment-free environment for everyone, regardless of age, gender, identity, sexual orientation, disability, ethnicity, religion, or level of experience.  
 
-## Comportamentos esperados
-- Ser respeitoso e cordial em todas as interações.  
-- Aceitar críticas construtivas de forma positiva.  
-- Colaborar de boa fé para melhorar o projeto.  
-- Ajudar a criar uma comunidade inclusiva e amigável.  
+## Expected Behaviors
+- Be respectful and courteous in all interactions.  
+- Accept constructive criticism positively.  
+- Collaborate in good faith to improve the project.  
+- Help foster an inclusive and friendly community.  
 
-## Comportamentos inaceitáveis
-Exemplos de condutas que não serão toleradas:  
-- Uso de linguagem ofensiva, discriminatória ou assediadora.  
-- Ataques pessoais, políticos ou religiosos.  
-- Publicação de informações privadas sem consentimento.  
-- Qualquer outra conduta que possa ser considerada inadequada em um ambiente profissional.  
+## Unacceptable Behaviors
+Examples of conduct that will not be tolerated include:  
+- Use of offensive, discriminatory, or harassing language.  
+- Personal, political, or religious attacks.  
+- Publishing private information without consent.  
+- Any other conduct deemed inappropriate in a professional setting.  
 
-## Aplicação
-Os responsáveis pelo projeto têm o direito e a responsabilidade de:  
-- Remover, editar ou rejeitar comentários, commits, issues e pull requests que não respeitem este código.  
-- Proibir temporária ou permanentemente qualquer colaborador que incorra em comportamentos inaceitáveis.  
+## Enforcement
+Project maintainers have the right and responsibility to:  
+- Remove, edit, or reject comments, commits, issues, and pull requests that violate this code.  
+- Temporarily or permanently ban any contributor who engages in unacceptable behavior.  
 
-## Relatar problemas
-Se você observar um comportamento que viole este código, pode denunciá-lo para:  
+## Reporting Issues
+If you witness behavior that violates this code, you can report it to:  
 📧 **divtecgat@gmail.com**  
 
-Todas as denúncias serão revisadas de forma confidencial e justa.  
+All reports will be reviewed confidentially and handled fairly.  
 
-## Atribuição
-Este código de conduta é baseado no [Contributor Covenant](https://www.contributor-covenant.org/), versão 2.1.  
+## Attribution
+This Code of Conduct is based on the [Contributor Covenant](https://www.contributor-covenant.org/), version 2.1. 
