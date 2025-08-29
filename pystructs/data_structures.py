@@ -3,7 +3,7 @@ def deep_map(func, data):
     if isinstance(data, list):
         return [deep_map(func, x) for x in data]
     elif isinstance(data, dict):
-        return {k: deep_map(func. v) for k, v in data.items()}
+        return {k: deep_map(func, v) for k, v in data.items()}
     else:
         return func(data)
 
@@ -12,7 +12,7 @@ def merge_deep(a, b):
     result = dict(a)
     for k, v in b.items():
         if k in result and isinstance(result[k], dict) and isinstance(v, dict):
-            result[k] = deep_map(result[k], v)
+            result[k] = merge_deep(result[k], v)
         else:
             result[k] = v
     return result
@@ -29,8 +29,10 @@ def pluck_path(data, path):
 def filter_deep(func, data):
     """Extract nested value safely by path list."""
     if isinstance(data, list):
-        return [filter_deep(func, x) for x in data if func(x)]
+        filtered_list = [filter_deep(func, x) for x in data]
+        return [x for x in filtered_list if x is not None]
     elif isinstance(data, dict):
-        return {k: filter_deep(func, v) for k, v in data.items() if func(v)}
+        filtered_dict = {k: filter_deep(func, v) for k, v in data.items()}
+        return {k: v for k, v in filtered_dict.items() if v is not None and v != {} and v != []}
     else:
         return data if func(data) else None
