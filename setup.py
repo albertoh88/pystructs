@@ -6,7 +6,7 @@ this_directory = Path(__file__).parent
 long_description = (this_directory / "README.md").read_text(encoding="utf-8")
 
 setup(
-    name="pystructs",
+    name="pystructs-utils",
     version="0.1.0",
     packages=find_packages(),
     install_requires=[],
@@ -15,5 +15,5 @@ setup(
     long_description_content_type="text/markdown",
     author="albertoh88",
     license="MIT",
-    python_requires=">=3.8,<3.13"
+    python_requires=">=3.8"
 )
