@@ -1,57 +1,57 @@
-# 🤝 Diretrizes para Contribuição
+# 🤝 Contribution Guidelines
 
-Obrigado pelo seu interesse em contribuir para este projeto.  
-Seja reportando um bug, sugerindo uma nova funcionalidade, corrigindo algo ou melhorando a documentação, todas as contribuições são bem-vindas.
-
----
-
-## 📌 Reportar bugs ou solicitar funcionalidades
-Por favor, utilize os **templates de GitHub Issues** para reportar erros ou sugerir novas funcionalidades.  
-
-Antes de abrir um issue:
-- Verifique se já existe um issue similar (aberto ou fechado recentemente).  
-- Inclua o máximo de detalhes possível:  
-  - Passos para reproduzir o problema  
-  - Versão do código utilizada  
-  - Qualquer modificação relevante que você tenha feito  
-  - Informações sobre seu ambiente  
+Thank you for your interest in contributing to this project.  
+Whether by reporting a bug, suggesting a new feature, fixing something, or improving the documentation, all contributions are welcome.
 
 ---
 
-## 🔀 Contribuições via Pull Requests
-Se você deseja enviar um Pull Request (PR):
+## 📌 Reporting Bugs or Requesting Features
+Please use the **GitHub Issue templates** to report bugs or suggest new features.  
 
-1. Faça um **fork** do repositório.  
-2. Crie uma branch descritiva para sua alteração (`git checkout -b fix/corrigir-login`).  
-3. Realize suas modificações focando em uma mudança específica.  
-4. Certifique-se de que os testes passam no seu ambiente local.  
-5. Faça commit usando mensagens claras (ex: `fix(api): corrigir erro na validação do usuário`).  
-6. Envie o Pull Request e descreva sua contribuição.  
-
-Por favor:
-- Verifique se já existe um PR relacionado.  
-- Fique atento às revisões e comentários.
+Before opening an issue:
+- Check if a similar issue already exists (open or recently closed).  
+- Include as many details as possible:  
+  - Steps to reproduce the problem  
+  - Code version used  
+  - Any relevant modifications you have made  
+  - Information about your environment  
 
 ---
 
-## 💡 Onde começar
-Você pode procurar issues que precisem de ajuda ou que sejam marcados como **`help wanted`** ou **`good first issue`** para encontrar tarefas em que possa contribuir facilmente.  
+## 🔀 Contributing via Pull Requests
+If you would like to submit a Pull Request (PR):
+
+1. **Fork** the repository.  
+2. Create a descriptive branch for your change (`git checkout -b fix/fix-login`).  
+3. Make your changes, focusing on one specific improvement.  
+4. Ensure that tests pass in your local environment.  
+5. Commit using clear messages (e.g., `fix(api): fix user validation error`).  
+6. Submit the Pull Request and describe your contribution.  
+
+Please:
+- Check if a related PR already exists.  
+- Be responsive to reviews and comments.  
 
 ---
 
-## 📜 Código de Conduta
-Este projeto segue um [Código de Conduta](./CODE_OF_CONDUCT.md).  
-Por favor, respeite-o em todas as suas interações.
+## 💡 Where to Start
+You can look for issues that need help or are labeled as **`help wanted`** or **`good first issue`** to find tasks that are easier to contribute to.  
 
 ---
 
-## 🔐 Reporte de vulnerabilidades
-Se você descobrir um problema de **segurança**, **não abra um issue público**.  
-Em vez disso, entre em contato diretamente com:  
-
-📧 **divtecgat@gmail.com**   
+## 📜 Code of Conduct
+This project follows a [Code of Conduct](./CODE_OF_CONDUCT.md).  
+Please adhere to it in all your interactions.  
 
 ---
 
-## 📄 Licença
-Ao contribuir, você aceita que suas contribuições sejam publicadas sob a licença do projeto (veja [LICENSE](./LICENSE)).
+## 🔐 Security Vulnerabilities
+If you discover a **security issue**, **do not open a public issue**.  
+Instead, contact us directly at:  
+
+📧 **divtecgat@gmail.com**  
+
+---
+
+## 📄 License
+By contributing, you agree that your contributions will be published under the project license (see [LICENSE](./LICENSE)).  
